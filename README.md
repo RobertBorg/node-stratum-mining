@@ -1,0 +1,2 @@
+node-stratum-mining
+===================
